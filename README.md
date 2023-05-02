@@ -15,16 +15,16 @@ the bank’s decision:
  
 The data given below contains the information about the loan application at the time of applying for the loan. It contains two types of scenarios:
 
-1.The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample,
-2.All other cases: All other cases when the payment is paid on time.
+1. The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample,
+2. All other cases: All other cases when the payment is paid on time.
 
 When a client applies for a loan, there are four types of decisions that could be taken by the client/company):
 
-1.Approved: The Company has approved loan Application
-2.Cancelled: The client cancelled the application sometime during approval. Either the client changed her/his mind about the loan or in some cases due to a higher 
-  risk of the client, he received worse pricing which he did not want.
-3.Refused: The company had rejected the loan (because the client does not meet their requirements etc.).
-4.Unused offer:  Loan has been cancelled by the client but at different stages of the process.
+1. Approved: The Company has approved loan Application
+2. Cancelled: The client cancelled the application sometime during approval. Either the client changed her/his mind about the loan or in some cases due to a higher 
+   risk of the client, he received worse pricing which he did not want.
+3. Refused: The company had rejected the loan (because the client does not meet their requirements etc.).
+4. Unused offer:  Loan has been cancelled by the client but at different stages of the process.
 
 In this case study, you will use EDA to understand how consumer attributes and loan attributes influence the tendency to default.
 
